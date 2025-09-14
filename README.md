@@ -12,8 +12,6 @@
 [![Prisma](https://img.shields.io/badge/Prisma-6.16.1-2D3748?style=flat-square&logo=prisma)](https://www.prisma.io/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.17-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
 
-[🚀 Live Demo](https://financeflow-demo.vercel.app) • [📖 Documentation](#documentation) • [🎯 Features](#features) • [🛠️ Tech Stack](#tech-stack)
-
 </div>
 
 ---
@@ -220,23 +218,6 @@ graph TB
 
 ---
 
-## 🧪 Testing
-
-```bash
-# Run unit tests
-npm run test
-
-# Run integration tests
-npm run test:integration
-
-# Run e2e tests
-npm run test:e2e
-
-# Run all tests
-npm run test:all
-```
-
----
 
 ## 📊 Performance Metrics
 
@@ -248,30 +229,12 @@ npm run test:all
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**Subhadro Samaddar**
+- GitHub: [@subhadrosamaddar](https://github.com/Subhadro)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/subhadro-samaddar)
+- Email: subhadrosamaddar@gmail.com
 
 ---
 
